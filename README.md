@@ -1,1 +1,0 @@
-# CloudServiceInterface-master
